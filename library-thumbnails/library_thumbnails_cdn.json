@@ -1,8 +1,8 @@
 {
-  "total_items": 80,
+  "total_items": 88,
   "folder_counts": {
-    "with-text": 40,
-    "without-text": 40
+    "with-text": 44,
+    "without-text": 44
   },
   "folders": [
     "with-text",
@@ -80,6 +80,16 @@
       "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/cartoon.webp"
     },
     {
+      "name": "collection-2",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/collection-2.webp"
+    },
+    {
+      "name": "collection",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/collection.webp"
+    },
+    {
       "name": "documentary",
       "folder": "with-text",
       "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/documentary.webp"
@@ -150,6 +160,11 @@
       "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/photos.webp"
     },
     {
+      "name": "playlist",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/playlist.webp"
+    },
+    {
       "name": "podcast-2",
       "folder": "with-text",
       "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/podcast-2.webp"
@@ -208,6 +223,11 @@
       "name": "vintage",
       "folder": "with-text",
       "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/vintage.webp"
+    },
+    {
+      "name": "watch-later",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/watch-later.webp"
     }
   ],
   "without-text": [
@@ -282,6 +302,16 @@
       "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/cartoon.webp"
     },
     {
+      "name": "collection-2",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/collection-2.webp"
+    },
+    {
+      "name": "collection",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/collection.webp"
+    },
+    {
       "name": "documentary",
       "folder": "without-text",
       "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/documentary.webp"
@@ -352,6 +382,11 @@
       "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/photos.webp"
     },
     {
+      "name": "playlist",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/playlist.webp"
+    },
+    {
       "name": "podcast-2",
       "folder": "without-text",
       "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/podcast-2.webp"
@@ -410,6 +445,11 @@
       "name": "vintage",
       "folder": "without-text",
       "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/vintage.webp"
+    },
+    {
+      "name": "watch-later",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/watch-later.webp"
     }
   ]
 }
